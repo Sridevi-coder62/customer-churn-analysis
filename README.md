@@ -1,39 +1,4 @@
-# 📊 Customer Churn Analysis & Playbook
 
-## 📌 Problem
-A telecom company is experiencing customer churn and wants to identify the reasons and reduce it.
-
----
-
-## 🎯 Objective
-- Analyze churn patterns
-- Identify high-risk customers
-- Build a churn prevention playbook
-
----
-
-## 🛠️ Tools Used
-- SQL (SQLite)
-- Power BI
-- Python (Data Cleaning)
-
----
-
-## 📊 Dashboard Insights
-
-- Total Customers: 7032  
-- Churn Rate: ~26.5%  
-- Highest churn in:
-  - Month-to-month contracts  
-  - New customers (0–6 months)  
-  - High monthly charges  
-  - No tech support users  
-
----
-
-## 📷 Dashboard
-
-# 📊 Customer Churn Analysis & Playbook
 
 ## 📌 Problem
 A telecom company is experiencing customer churn and wants to identify the reasons and reduce it.
